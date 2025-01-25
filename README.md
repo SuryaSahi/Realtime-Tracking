@@ -62,7 +62,8 @@ This will install all the necessary packages, including Express and Socket.IO.
 ## Start the Server
 To start the server, run the following command:
 
-npx nodemon app.js
+## npx nodemon app.js
+
 The server will start on port 3000 by default.
 
 ## Open the Application
