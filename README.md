@@ -56,7 +56,7 @@ git clone https://github.com/SuryaSahi/Realtime-Tracking-System.git
 Navigate to the project directory and install the required dependencies:
 cd Realtime-Tracking-System
 
-# npm install express ejs socket.io
+## npm install express ejs socket.io
 This will install all the necessary packages, including Express and Socket.IO.
 
 ## Start the Server
@@ -67,7 +67,7 @@ The server will start on port 3000 by default.
 
 ## Open the Application
 Once the server is running, open your browser and navigate to:
-# http://localhost:3000
+### http://localhost:3000
 You should see the interactive map, and the application will begin tracking and displaying your location.
 
 👥 How to Use
